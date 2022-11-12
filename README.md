@@ -54,7 +54,7 @@ Menstrual-Tracker  is a console based program developed using C language.it basi
 This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by any inc. or any of its affiliates or subsidiaries.
 ## Screenshots
 
-![App Screenshot](tool.png)
+![App Screenshot](image.png)
 
 
 ![Logo](https://images.ctfassets.net/aqfuj2z95p5p/3n8bhCTmCl3cY4c4xYIDsT/cd7c3b10a2c8105e3690a48153b95e21/calendar-icon.png)
