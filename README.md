@@ -27,13 +27,16 @@ Menstrual-Tracker  is a console based program developed using C language.it basi
 
 
 ```bash
-  Download the .exe file and just run it 🎡
+ 1  . Download the .exe file and just run it 🎡
 
 ```
 ``` bash
-  Download the m_cycle.c file and compile and run it using any c/c++ Compiler or IDE  🛠
+ 2  . Download the m_cycle.c file and compile and run it using any c/c++ Compiler or IDE  🛠
 ```
 
+``` bash
+ TRY USING THE SECOND METHOD IF THE EXE FILE IS CRASHING !  🛠
+```
 
 
 
